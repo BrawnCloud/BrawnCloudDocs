@@ -16,6 +16,6 @@ Yes, **we have one of the best anti-ddos so don't worry your server is well prot
 
 ## 🗡️ **Are you a content creator?**
 
-If you are a content creator, contact us on our [Discord](discord.gg/brawncloud) through a ticket and we can reach an advertising agreement.
+If you are a content creator, contact us on our [Discord](https://discord.gg/brawncloud) through a ticket and we can reach an advertising agreement.
 
 📌 **For more questions, feel free to contact us.**

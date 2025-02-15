@@ -26,12 +26,12 @@ Whether you need hosting for your website, a game server, or a cloud solution, a
 
 Stay informed about news, updates and exclusive promotions:
 
-[📌 Facebook](facebook.com/brawncloud)
+[📌 Facebook](https://facebook.com/brawncloud)
 
-[🐦 Twitter/X](twitter.com/brawncloud)
+[🐦 Twitter/X](https://twitter.com/brawncloud)
 
-[📷 Instagram](instagram.com/brawncloud)
+[📷 Instagram](https://instagram.com/brawncloud)
 
-[💬 Discord](discord.gg/brawncloud)
+[💬 Discord](https://discord.gg/brawncloud)
 
 Join our community and discover the future of hosting with Brawn Cloud!
