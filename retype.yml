@@ -1,0 +1,30 @@
+input: .
+output: .retype
+
+url: https://BrawnCloud.github.io/BrawnCloudDocs
+
+branding:
+  title: BrawnCloud
+  label: v1.0.0
+  logo: static/logo.png
+  colors:
+    label:
+      text: "#ffffff"
+      background: "#25a87f"
+
+links:
+  - text: GitHub
+    icon: mark-github
+    link: https://github.com/BrawnCloud
+  - text: Discord
+    icon: comment-discussion
+    link: https://discord.gg/brawncloud
+
+favicon: static/logo.png
+
+search:
+  hotkeys:
+    - "/"
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."

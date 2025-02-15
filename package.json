@@ -1,0 +1,14 @@
+{
+  "name": "brawnclouddocs",
+  "version": "1.0.0",
+  "dependencies": {
+    "retypeapp": "^3.6.0"
+  },
+  "scripts": {
+    "start": "retype start",
+    "build": "retype build"
+  },
+  "author": "Josscoder",
+  "license": "ISC",
+  "description": ""
+}
