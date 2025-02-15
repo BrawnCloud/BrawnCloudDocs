@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://BrawnCloud.github.io/BrawnCloudDocs/sitemap.xml.gz
