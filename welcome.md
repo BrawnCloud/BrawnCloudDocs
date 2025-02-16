@@ -2,7 +2,7 @@
 icon: home
 ---
 
-# 🚀 Welcome to Brawn Cloud
+# 🚀 Welcome to BrawnCloud
 
 ## Power and Stability for your Project
 
@@ -34,4 +34,4 @@ Stay informed about news, updates and exclusive promotions:
 
 [💬 Discord](https://discord.gg/brawncloud)
 
-Join our community and discover the future of hosting with Brawn Cloud!
+Join our community and discover the future of hosting with BrawnCloud!
